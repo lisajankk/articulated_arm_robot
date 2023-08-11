@@ -1,6 +1,6 @@
 # Articulated Arm Robot Visualization
 
-This project aims to create an animated visualization of an articulated arm robot using JavaFX. The JavaFX framework's basic functionalities were utilized to implement the project.
+This project aims to create an animated visualization of an articulated arm robot using **JavaFX**. The JavaFX framework's basic functionalities were utilized to implement the project.
 
 The project consists of two main parts: a 3D visualization and the underlying code responsible for rendering the 3D scene.
 
@@ -72,7 +72,7 @@ The robot's movement is controlled using keyboard keys through a switch function
 ## Documentation
 For more detailed information, please refer to the documentation provided in PDF format.
 
-  
+<!-- +
 ## Project visualization
-<img src="https://github.com/lisajankk/articulated_arm_robot/assets/124843836/ec76e9aa-a448-48ee-a966-84c5a560981f" width="800">
+ <img src="https://github.com/lisajankk/articulated_arm_robot/assets/124843836/ec76e9aa-a448-48ee-a966-84c5a560981f" width="800">+ -->
 
